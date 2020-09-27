@@ -4,6 +4,10 @@
 - 🇪🇸 Español
 - [🇺🇸 Ingles](./README.md)
 
+***Requisitos***
+- [(docs) docker instalación](https://docs.docker.com/engine/install/)
+- [(docs) docker compose instalación](https://docs.docker.com/compose/install/)
+
 # Indice
 
 - [Variables de entorno](#Variables-de-entorno)
@@ -32,10 +36,6 @@
   ```
 
 # Referencias
-
-***Docker Instalación***
-- [Docker installation](https://docs.docker.com/engine/install/)
-- [Docker compose installation](https://docs.docker.com/compose/install/)
 
 ***Docker Documentación***
 - [Docker Environment variables in Composer](https://docs.docker.com/compose/environment-variables/)
